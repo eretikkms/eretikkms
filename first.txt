@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 nsnvxcnvjxvbjvbs jbsdvbsdjb sdbv jsdvbsdjvbjsdbvjb sdbv sdvubd oэто из основной ветки
+=======
+nsnvxcnvjxvbjvbs jbsdvbsdjb sdbv jsdvbsdjvbjsdbvjb sdbv sdvubd oНовая ерунда
+>>>>>>> new_branch
